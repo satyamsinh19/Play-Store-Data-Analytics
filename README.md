@@ -122,6 +122,3 @@ Each task is represented by its own Jupyter notebook, with output visualizations
 
 ---
 
-<h2 align="center">📄 License</h2>
-
-MIT License © 2025 Satyam Kumar
